@@ -44,10 +44,11 @@
 
 ### Building Real-World Digital Solutions
 
-<a href="https://github.com/Webcrafter021/home-interior-living-erp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Webcrafter021&repo=home-interior-living-erp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4FF&icon_color=FF7A00&text_color=FFFFFF" alt="Home Interior Living ERP Repository" />
-</a>
 
+<a href="https://github.com/Webcrafter021/home-interior-living-erp">
+  <img src="https://img.shields.io/badge/🏠_Home_Interior_Living_ERP-View_Repository-00B4FF?style=for-the-badge&logo=github&logoColor=white" alt="View Home Interior Living ERP" />
+</a>
+  
 <br/>
 
 ### 🏠 Home Interior Living ERP
