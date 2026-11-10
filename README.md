@@ -16,3 +16,32 @@
   </p>
 
 </div>
+
+
+---
+
+<div align="center">
+
+## ⚡ My Tech Arsenal
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" />
+
+### Backend & Programming
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,python&theme=dark" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+
+### Automation
+
+<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+</div>
