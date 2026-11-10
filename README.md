@@ -63,6 +63,30 @@ Product Management | Inventory | Stock Tracking | Sales | REST APIs
 
 </div>
 
+---
+
+<div align="center">
+
+<h2>📊 GitHub Analytics</h2>
+
+<h3>🔥 Contribution Streak</h3>
+
+<img
+  src="https://streak-stats.demolab.com?user=Webcrafter021&theme=tokyonight&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
+
+<h3>📈 Contribution Activity</h3>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Webcrafter021&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+
 
 ### Development Tools
 
