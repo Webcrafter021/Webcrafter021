@@ -78,11 +78,14 @@ Product Management | Inventory | Stock Tracking | Sales | REST APIs
 
 <h3>📈 Contribution Activity</h3>
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Webcrafter021&theme=tokyo-night&hide_border=true&area=true"
-  width="95%"
-  alt="GitHub Activity Graph"
-/>
+
+<a href="https://github.com/Webcrafter021">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Webcrafter021&bg_color=0d1117&color=00b4ff&line=ff7a00&point=ffffff&area=true&area_color=00b4ff&hide_border=true"
+    alt="WebCrafter GitHub Activity Graph"
+    width="95%"
+  />
+</a>
 
 </div>
 
