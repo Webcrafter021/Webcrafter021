@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**Webcrafter021/Webcrafter021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <img src="./webcrafter-mascot.gif"
+       alt="WebCrafter 3D Animated Developer"
+       width="100%" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h1>Hi, I'm WebCrafter 👋</h1>
+
+  <h3>Full-Stack Developer & Automation Specialist</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Creating+Smart+Automation+Workflows;Developing+Scalable+Business+Systems;Turning+Ideas+Into+Digital+Solutions" alt="Typing Animation" />
+
+  <p>
+    <b>Code • Automate • Innovate</b>
+  </p>
+
+</div>
