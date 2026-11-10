@@ -36,6 +36,33 @@
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
+---
+
+<div align="center">
+
+## 🚀 Featured Projects
+
+### Building Real-World Digital Solutions
+
+<a href="https://github.com/Webcrafter021/home-interior-living-erp">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Webcrafter021&repo=home-interior-living-erp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00B4FF&icon_color=FF7A00&text_color=FFFFFF" alt="Home Interior Living ERP Repository" />
+</a>
+
+<br/>
+
+### 🏠 Home Interior Living ERP
+
+**Full-Stack Furniture Business Management System**
+
+React • Node.js • Express.js • MongoDB
+
+Product Management | Inventory | Stock Tracking | Sales | REST APIs
+
+[View Source Code](https://github.com/Webcrafter021/home-interior-living-erp)
+
+</div>
+
+
 ### Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
